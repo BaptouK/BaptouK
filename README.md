@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaptouK
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Rust
 - I'm a French Student from Nantes 🇫🇷
 - Currently looking for apprenticeship contract in development for the 2026-2027 year.
 - Contact : linkedin.com/in/BaptisteDps
